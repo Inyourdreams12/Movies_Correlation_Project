@@ -4,6 +4,8 @@ Based on my analysis of movie metrics from 1980 to 2020, it appears that there a
 In addition to the commonly examined factors of **"budget"** and **"box office gross"**, you have also found a strong correlation between a **"movie's score"** and the **"number of votes"** it receives. 
 
 This suggests that audience engagement and critical reception may be key factors in a movie's success, and should be taken into account when making decisions about which movies to produce or invest in. 
+<img width="1101" alt="image" src="https://user-images.githubusercontent.com/119731058/218664302-da6ebafd-dfb3-44b0-9b59-8b117fa7a6e2.png">
+
 
    + Firstly, a movie's score on websites such as Rotten Tomatoes, IMDb, or Metacritic can be seen as an indicator of its critical reception. A high score indicates that a movie was well-received by professional movie critics, which can in turn influence the perception of the general public. Positive critical reviews can generate buzz and interest around a movie, and lead to more people going to see it in theaters or renting it online.
 
