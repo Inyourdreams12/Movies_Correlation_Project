@@ -9,6 +9,6 @@ This suggests that audience engagement and critical reception may be key factors
 
    + Secondly, the number of votes a movie receives on these websites can be seen as an indicator of audience engagement. A high number of votes indicates that a large number of people have seen the movie and have taken the time to rate it. This suggests that the movie has generated a significant level of interest and discussion among the general public, which can help to increase its exposure and popularity.
 
-Overall, the strong correlation between a movie's score and the number of votes it receives suggests that critical reception and audience engagement are important factors in a movie's success. By producing movies that are well-received by both critics and audiences, filmmakers and studios can increase the chances of their movies being successful at the box office and beyond.
+   + Overall, the strong correlation between a movie's score and the number of votes it receives suggests that critical reception and audience engagement are important factors in a movie's success. By producing movies that are well-received by both critics and audiences, filmmakers and studios can increase the chances of their movies being successful at the box office and beyond.
 
 
