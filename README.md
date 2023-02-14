@@ -1,7 +1,7 @@
 # Movies_Correlation_Project
 
 Based on my analysis of movie metrics from 1980 to 2020, it appears that there are several factors that have a strong correlation with a movie's success. 
-In addition to the commonly examined factors of <b>"budget"<b> and "box office gross", you have also found a strong correlation between a "movie's score" and the "number of votes" it receives. 
+In addition to the commonly examined factors of **"budget"** and **"box office gross"**, you have also found a strong correlation between a **"movie's score"** and the **"number of votes"** it receives. 
 
 This suggests that audience engagement and critical reception may be key factors in a movie's success, and should be taken into account when making decisions about which movies to produce or invest in. 
 
