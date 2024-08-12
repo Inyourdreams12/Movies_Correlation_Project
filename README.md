@@ -1,4 +1,4 @@
-# Movies_Correlation_Project
+# Analize The Movies Suscces metrics in Python
 
 Based on my analysis of movie metrics from 1980 to 2020, it appears that there are several factors that have a strong correlation with a movie's success. 
 In addition to the commonly examined factors of **"budget"** and **"box office gross"**, you have also found a strong correlation between a **"movie's score"** and the **"number of votes"** it receives. 
