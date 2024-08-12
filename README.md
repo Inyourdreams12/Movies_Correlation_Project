@@ -17,3 +17,6 @@ This suggests that audience engagement and critical reception may be key factors
 
 <img width="1101" alt="image" src="https://user-images.githubusercontent.com/119731058/218664672-c07ff298-317e-40c8-a2c6-e6b801ee7d7f.png">
 
+<br/>
+
+_*The detail analyst in the python file_
